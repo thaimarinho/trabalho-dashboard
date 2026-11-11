@@ -1,0 +1,20 @@
+{
+  "taxa_ocupacao_media": 78.5,
+  "labs_em_uso_agora": 3,
+  "total_labs_cadastrados": 5,
+  "aulas_agendadas_hoje": 14,
+  "maquinas_em_manutencao": 3,
+  "ocupacao_por_turno": {
+    "matutino": 85.0,
+    "vespertino": 72.0,
+    "noturno": 60.0
+  },
+  "ranking_mais_demandados": [
+    { "posicao": 1, "laboratorio": "Lab 02 - Desenvolvimento de Software", "horas_semana": 42, "taxa": 92 },
+    { "posicao": 2, "laboratorio": "Lab 01 - Redes e Infraestrutura", "horas_semana": 36, "taxa": 80 },
+    { "posicao": 3, "laboratorio": "Lab 03 - Computação Gráfica & CAD", "horas_semana": 28, "taxa": 65 }
+  ],
+  "alertas_manutencao": [
+    { "laboratorio": "Lab 05 - Maker & Robótica", "mensagem": "Troca de fonte das bancadas 03 e 04 programada." }
+  ]
+}

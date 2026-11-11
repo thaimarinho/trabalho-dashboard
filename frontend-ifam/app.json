@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Portal IFAM",
+    "slug": "portal-ifam",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo_ifam_01.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo_ifam_01.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/logo_ifam_01.png"
+    },
+    "extra": {
+      "apiBaseUrl": "http://10.142.131.71:8000",
+      "useMock": false
+    }
+  }
+}
